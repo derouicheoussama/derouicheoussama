@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Trois métiers : logiciels desktop, plugins WordPress premium, plateformes web et SaaS">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2F5FE0"/><stop offset="1" stop-color="#4CC2FF"/></linearGradient>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="0" y="0" width="373" height="220" rx="16" fill="#0C1322" stroke="#1E2A44" stroke-width="1.5"/>
+    <rect x="0" y="0" width="373" height="4" rx="2" fill="#4CC2FF"/>
+    <text x="26" y="64" font-size="34">🖥️</text>
+    <text x="72" y="62" font-size="21" font-weight="700" fill="#F3F6FC">Logiciels desktop</text>
+    <text x="26" y="104" font-size="15" fill="#9FB0C9">Windows &amp; macOS — facturation, POS,</text>
+    <text x="26" y="126" font-size="15" fill="#9FB0C9">gestion, licences Ed25519 signées</text>
+    <text x="26" y="156" font-size="14" font-weight="600" fill="#4CC2FF">100 % local — données chez le client</text>
+
+    <rect x="413" y="0" width="373" height="220" rx="16" fill="#0C1322" stroke="#1E2A44" stroke-width="1.5"/>
+    <rect x="413" y="0" width="373" height="4" rx="2" fill="#FBBF24"/>
+    <text x="439" y="64" font-size="34">🧩</text>
+    <text x="485" y="62" font-size="21" font-weight="700" fill="#F3F6FC">Plugins WordPress</text>
+    <text x="439" y="104" font-size="15" fill="#9FB0C9">Premium &amp; supportés — sécurité login,</text>
+    <text x="439" y="126" font-size="15" fill="#9FB0C9">migrations, serveur de licences central</text>
+    <text x="439" y="156" font-size="14" font-weight="600" fill="#FBBF24">Code conforme WP, mises à jour en 1 clic</text>
+
+    <rect x="826" y="0" width="374" height="220" rx="16" fill="#0C1322" stroke="#1E2A44" stroke-width="1.5"/>
+    <rect x="826" y="0" width="374" height="4" rx="2" fill="#34D399"/>
+    <text x="852" y="64" font-size="34">☁️</text>
+    <text x="898" y="62" font-size="21" font-weight="700" fill="#F3F6FC">Plateformes web &amp; SaaS</text>
+    <text x="852" y="104" font-size="15" fill="#9FB0C9">Next.js · React · Supabase — multi-tenant,</text>
+    <text x="852" y="126" font-size="15" fill="#9FB0C9">paiements, dashboards, sites sur mesure</text>
+    <text x="852" y="156" font-size="14" font-weight="600" fill="#34D399">Oran (Algérie) &amp; France — à distance</text>
+  </g>
+</svg>
