@@ -47,6 +47,8 @@
 
 🧰 **Open source** — [Windows/Mac Toolbox](https://github.com/derouicheoussama/windows-toolbox) (GPL-3.0) · [Right Click Blocker Pro](https://github.com/derouicheoussama/right-click-blocker-pro) (GPLv2)
 
+☕ **[Soutenir mon travail open source sur Ko-fi](https://ko-fi.com/derouicheoussama)** — chaque café finance une mise à jour gratuite.
+
 ## 🧠 Stack
 
 <p align="center">
