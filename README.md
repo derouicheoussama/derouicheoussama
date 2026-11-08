@@ -58,7 +58,7 @@
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derouicheoussama&theme=github_dark" alt="Statistiques GitHub de Derouiche Oussama" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derouicheoussama&theme=github_dark" alt="Langages les plus commités" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=derouicheoussama&theme=github_dark" alt="Répartition des langages par dépôt" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=derouicheoussama&theme=github-dark-blue&hide_border=true&ring=4CC2FF&fire=FF8A4C&currStreakLabel=4CC2FF&locale=fr" alt="Série de commits GitHub" />
