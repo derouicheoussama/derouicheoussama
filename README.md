@@ -8,7 +8,7 @@
 Je conçois, développe et maintiens seul des **logiciels desktop**, des **plugins WordPress**
 et des **plateformes web** — pensés pour le marché algérien et vendus avec support direct.
 
-🌐 **Site : [derouicheoussama.com](https://www.derouicheoussama.com)** · **Produit phare : [factspeed.com](https://factspeed.com)**
+🌐 **Site : [derouicheoussama.com](https://www.derouicheoussama.com)** · **Produit phare : [factspeed.com](https://factspeed.com)** · **Organisation : [github.com/FactSpeed](https://github.com/FactSpeed)**
 
 [![Site web](https://img.shields.io/badge/🌐%20Site-derouicheoussama.com-2F5FE0)](https://www.derouicheoussama.com)
 [![WordPress](https://img.shields.io/badge/WordPress-profile-21759B?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/derouicheoussama/)
