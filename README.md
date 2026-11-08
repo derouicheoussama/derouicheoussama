@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Derouiche Oussama — Infinity Coder, Oran, Algérie" />
+  <img src="banner.svg" width="100%" alt="Derouiche Oussama — développeur full-stack indépendant, Infinity Coder, Oran, Algérie" />
 </p>
 
 <p align="center">
@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="terminal.svg" width="100%" alt="Terminal : whoami, produits, stack et statut" />
+  <img src="terminal.svg" width="100%" alt="Terminal : whoami, produits, stack et statut de Derouiche Oussama" />
+</p>
+
+<p align="center">
+  <img src="services.svg" width="100%" alt="Logiciels desktop Windows et macOS, plugins WordPress premium, plateformes web et SaaS sur mesure" />
 </p>
 
 ---
@@ -24,10 +28,10 @@
 > **100 % local** (données chez le client), Windows & macOS, licence sans abonnement.
 
 <p align="center">
-  <a href="https://factspeed.com"><img src="https://img.shields.io/badge/🌐%20Site-factspeed.com-2F5FE0?style=flat-square" alt="Site" /></a>
-  <a href="https://github.com/derouicheoussama/factspeed-releases"><img src="https://img.shields.io/badge/⬇️%20T%C3%A9l%C3%A9chargements-releases%20officielles-0A84FF?style=flat-square" alt="Releases" /></a>
-  <a href="https://github.com/derouicheoussama/factspeed"><img src="https://img.shields.io/badge/💻%20Produit-factspeed%20%28priv%C3%A9%29-6B7280?style=flat-square" alt="Produit" /></a>
-  <a href="https://wa.me/213770600957"><img src="https://img.shields.io/badge/💬%20Support-WhatsApp%207j%2F7-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Support" /></a>
+  <a href="https://factspeed.com"><img src="https://img.shields.io/badge/🌐%20Site-factspeed.com-2F5FE0?style=flat-square" alt="Site FactSpeed" /></a>
+  <a href="https://github.com/derouicheoussama/factspeed-releases"><img src="https://img.shields.io/badge/⬇️%20T%C3%A9l%C3%A9chargements-releases%20officielles-0A84FF?style=flat-square" alt="Releases FactSpeed" /></a>
+  <a href="https://github.com/derouicheoussama/factspeed"><img src="https://img.shields.io/badge/💻%20Produit-factspeed%20%28priv%C3%A9%29-6B7280?style=flat-square" alt="Dépôt produit" /></a>
+  <a href="https://wa.me/213770600957"><img src="https://img.shields.io/badge/💬%20Support-WhatsApp%207j%2F7-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Support WhatsApp" /></a>
 </p>
 
 ## 🚀 Écosystème Infinity Coder
@@ -46,14 +50,14 @@
 ## 🧠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,tailwind,supabase&perline=7" alt="Développement" /><br/>
-  <img src="https://skillicons.dev/icons?i=electron,sqlite,mysql,vite,git,github,vscode&perline=7" alt="Outils & données" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,tailwind,supabase&perline=7" alt="TypeScript, React, Next.js, Node.js, PHP, Tailwind CSS, Supabase" /><br/>
+  <img src="https://skillicons.dev/icons?i=electron,sqlite,mysql,vite,git,github,vscode&perline=7" alt="Electron, SQLite, MySQL, Vite, Git, GitHub, VS Code" />
 </p>
 
 ## 📊 Activité
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derouicheoussama&theme=github_dark" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derouicheoussama&theme=github_dark" alt="Statistiques GitHub de Derouiche Oussama" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derouicheoussama&theme=github_dark" alt="Langages les plus commités" />
 </p>
 <p align="center">
@@ -61,6 +65,18 @@
 </p>
 
 ---
+
+## 📍 Développeur d'applications à Oran, Algérie
+
+Je conçois, développe et maintiens **des logiciels métier pour l'Algérie et la France** :
+[logiciel de facturation et de gestion commerciale](https://factspeed.com) (FactSpeed),
+[plugins WordPress premium](https://github.com/derouicheoussama/loginfennec) (sécurité, migration, licences),
+plateformes SaaS multi-tenant et sites web professionnels sur mesure.
+Développement full-stack **TypeScript / React / Electron** pour le desktop et le web,
+**PHP / WordPress** pour l'écosystème CMS — données locales ou auto-hébergées, support direct 7j/7.
+
+*EN — Independent full-stack developer from **Oran, Algeria**: desktop invoicing & business
+software, premium WordPress plugins, custom multi-tenant SaaS platforms and professional websites.*
 
 <p align="center">
   📫 <b>hi@factspeed.com</b> · 💬 <a href="https://wa.me/213770600957">WhatsApp</a> · 🌐 <a href="https://www.derouicheoussama.com">derouicheoussama.com</a>
