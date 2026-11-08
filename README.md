@@ -1,62 +1,69 @@
-<div align="center">
-  <img src="banner.svg" alt="Derouiche Oussama — Infinity Coder" width="100%" />
-</div>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Derouiche Oussama — Infinity Coder, Oran, Algérie" />
+</p>
 
-# Salut, je suis Derouiche Oussama 👋
+<p align="center">
+  <a href="https://www.derouicheoussama.com"><img src="https://img.shields.io/badge/Site-derouicheoussama.com-2F5FE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
+  <a href="https://factspeed.com"><img src="https://img.shields.io/badge/Produits-factspeed.com-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt="Produits" /></a>
+  <a href="https://profiles.wordpress.org/derouicheoussama/"><img src="https://img.shields.io/badge/WordPress-profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+  <a href="https://www.instagram.com/derouiche.oussama/"><img src="https://img.shields.io/badge/Instagram-%40derouiche.oussama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/derouiche.oussama"><img src="https://img.shields.io/badge/Facebook-derouiche.oussama-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.tiktok.com/@derouiche.oussama"><img src="https://img.shields.io/badge/TikTok-%40derouiche.oussama-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
-**Développeur logiciel indépendant — ∞ Infinity Coder** (Oran, Algérie).
-Je conçois, développe et maintiens seul des **logiciels desktop**, des **plugins WordPress**
-et des **plateformes web** — pensés pour le marché algérien et vendus avec support direct.
-
-🌐 **Site : [derouicheoussama.com](https://www.derouicheoussama.com)** · **Produit phare : [factspeed.com](https://factspeed.com)** · **Organisation : [github.com/FactSpeed](https://github.com/FactSpeed)**
-
-[![Site web](https://img.shields.io/badge/🌐%20Site-derouicheoussama.com-2F5FE0)](https://www.derouicheoussama.com)
-[![WordPress](https://img.shields.io/badge/WordPress-profile-21759B?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/derouicheoussama/)
-[![Instagram](https://img.shields.io/badge/Instagram-@derouiche.oussama-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/derouiche.oussama/)
-[![Facebook](https://img.shields.io/badge/Facebook-derouiche.oussama-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/derouiche.oussama)
-[![TikTok](https://img.shields.io/badge/TikTok-@derouiche.oussama-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@derouiche.oussama)
-
----
-
-## 🚀 Produits (écosystème Infinity Coder)
-
-| Produit | Quoi | Lien |
-|---|---|---|
-| **FactSpeed** | ERP de facturation & gestion commerciale pour l'Algérie — TVA & droit de timbre (LF 2025), G50 Excel, POS caisse, RH/paie CNAS, multi-devises, 12 modèles de factures FR/AR RTL, 100 % local (Windows & macOS) | [factspeed.com](https://factspeed.com) |
-| **LoginFennec Pro** | Plugin WordPress — personnalisation page login + sécurité (brute-force, honeypot, journal, XML-RPC) | [derouicheoussama/loginfennec](https://github.com/derouicheoussama/loginfennec) |
-| **Infinity MigrateX Pro** | Plugin WordPress — migration, sauvegarde & déploiement (moteur par lots, reprise où on s'était arrêté) | [derouicheoussama/infinity-migratex-pro](https://github.com/derouicheoussama/infinity-migratex-pro) |
-| **InfinityCod** | Application desktop API transporteurs (11 intégrations), Google Sheets natif, notifications push | [derouicheoussama/infinitycod](https://github.com/derouicheoussama/infinitycod) |
-| **RentExpert** | ERP de location de voitures (Algérie) — contrats, GPS Traccar, licences Ed25519, multi-thèmes | [derouicheoussama/rentexpert](https://github.com/derouicheoussama/rentexpert) |
-| **Infinity License Manager** | Serveur central de licences & mises à jour WordPress (auto-hébergeable) | privé (sur demande) |
-
-## 🧰 Open source
-
-| Projet | Quoi | Licence |
-|---|---|---|
-| **[Windows/Mac Toolbox](https://github.com/derouicheoussama/windows-toolbox)** | Utilitaires système : nettoyage, diagnostic, optimisation — PowerShell (Windows) + bash (macOS) | GPL-3.0 |
-| **[Right Click Blocker Pro](https://github.com/derouicheoussama/right-click-blocker-pro)** | Protection du contenu WordPress (clic droit, sélection, copie) | GPLv2 |
-
-## 🛠️ Stack
-
-![Electron](https://img.shields.io/badge/Electron-44-47848F?logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-100%20%25%20local-003B57?logo=sqlite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-plugin%20dev-21759B?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
-
-## 📬 Me contacter
-
-- 🌐 Site & portfolio : **[derouicheoussama.com](https://www.derouicheoussama.com)**
-- 💼 Produits & licences : **[factspeed.com](https://factspeed.com)**
-- 📧 Email : **hi@factspeed.com**
+<p align="center">
+  <img src="terminal.svg" width="100%" alt="Terminal : whoami, produits, stack et statut" />
+</p>
 
 ---
 
-<div align="center">
+## ⭐ Produit phare — [FactSpeed](https://factspeed.com)
 
-∞ **Infinity Coder** — chaque projet signé, chaque client accompagné (WhatsApp 7 j/7).
+> **Facturez à la vitesse de votre commerce.** ERP de facturation & gestion commerciale
+> pensé pour l'Algérie — TVA 19/9 %, droit de timbre, G50 & IFU, POS caisse, stock, RH/paie CNAS,
+> **100 % local** (données chez le client), Windows & macOS, licence sans abonnement.
 
-</div>
+<p align="center">
+  <a href="https://factspeed.com"><img src="https://img.shields.io/badge/🌐%20Site-factspeed.com-2F5FE0?style=flat-square" alt="Site" /></a>
+  <a href="https://github.com/derouicheoussama/factspeed-releases"><img src="https://img.shields.io/badge/⬇️%20T%C3%A9l%C3%A9chargements-releases%20officielles-0A84FF?style=flat-square" alt="Releases" /></a>
+  <a href="https://github.com/derouicheoussama/factspeed"><img src="https://img.shields.io/badge/💻%20Produit-factspeed%20%28priv%C3%A9%29-6B7280?style=flat-square" alt="Produit" /></a>
+  <a href="https://wa.me/213770600957"><img src="https://img.shields.io/badge/💬%20Support-WhatsApp%207j%2F7-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Support" /></a>
+</p>
+
+## 🚀 Écosystème Infinity Coder
+
+| Produit | En une ligne | Lien |
+|---|---|---|
+| **[FactSpeed](https://factspeed.com)** | ERP facturation Algérie — TVA/timbre, G50, POS, paie CNAS, 100 % local | [releases](https://github.com/derouicheoussama/factspeed-releases) |
+| **[LoginFennec Pro](https://github.com/derouicheoussama/loginfennec)** | Sécurité de login WordPress — brute-force, 2FA, audit | repo |
+| **[Infinity MigrateX Pro](https://github.com/derouicheoussama/infinity-migratex-pro)** | Migration, sauvegarde & déploiement WordPress par lots | repo |
+| **[InfinityCod](https://github.com/derouicheoussama/infinitycod)** | COD Algérie — 58 wilayas, transporteurs, WhatsApp auto | repo |
+| **[RentExpert](https://github.com/derouicheoussama/rentexpert)** | ERP location de voitures — GPS Traccar, licences Ed25519 | releases |
+| **Infinity License Manager** | Serveur de licences & mises à jour WordPress auto-hébergeable | privé (sur demande) |
+
+🧰 **Open source** — [Windows/Mac Toolbox](https://github.com/derouicheoussama/windows-toolbox) (GPL-3.0) · [Right Click Blocker Pro](https://github.com/derouicheoussama/right-click-blocker-pro) (GPLv2)
+
+## 🧠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,tailwind,supabase&perline=7" alt="Développement" /><br/>
+  <img src="https://skillicons.dev/icons?i=electron,sqlite,mysql,vite,git,github,vscode&perline=7" alt="Outils & données" />
+</p>
+
+## 📊 Activité
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derouicheoussama&theme=github_dark" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derouicheoussama&theme=github_dark" alt="Langages les plus commités" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=derouicheoussama&theme=github-dark-blue&hide_border=true&ring=4CC2FF&fire=FF8A4C&currStreakLabel=4CC2FF&locale=fr" alt="Série de commits GitHub" />
+</p>
+
+---
+
+<p align="center">
+  📫 <b>hi@factspeed.com</b> · 💬 <a href="https://wa.me/213770600957">WhatsApp</a> · 🌐 <a href="https://www.derouicheoussama.com">derouicheoussama.com</a>
+</p>
+
+<p align="center"><sub>∞ <b>Infinity Coder</b> — chaque projet signé, chaque client accompagné.</sub></p>
