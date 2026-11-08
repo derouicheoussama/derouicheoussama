@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Terminal : whoami, produits, stack et statut de Derouiche Oussama">
+  <rect x="0" y="0" width="1200" height="400" rx="16" fill="#0C1322" stroke="#1E2A44" stroke-width="1.5"/>
+  <line x1="0" y1="46" x2="1200" y2="46" stroke="#1E2A44" stroke-width="1.5"/>
+  <circle cx="34" cy="23" r="7.5" fill="#FF5F57"/>
+  <circle cx="58" cy="23" r="7.5" fill="#FEBC2E"/>
+  <circle cx="82" cy="23" r="7.5" fill="#28C840"/>
+  <text x="600" y="28" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13.5" fill="#7D8CA6">derouiche@infinity-coder — zsh</text>
+
+  <g font-family="JetBrains Mono, Cascadia Code, Consolas, monospace" font-size="15.5">
+    <text x="36" y="88" fill="#4CC2FF" font-weight="700">$</text>
+    <text x="56" y="88" fill="#E8EEF7" font-weight="600">whoami</text>
+    <text x="56" y="120" fill="#9FB0C9">derouiche-oussama · fondateur ∞ Infinity Coder — Oran, Algérie</text>
+
+    <text x="36" y="158" fill="#4CC2FF" font-weight="700">$</text>
+    <text x="56" y="158" fill="#E8EEF7" font-weight="600">produits --list</text>
+    <text x="56" y="190" fill="#4CC2FF" font-weight="700">FactSpeed</text>
+    <text x="158" y="190" fill="#FBBF24" font-weight="600">LoginFennec Pro</text>
+    <text x="322" y="190" fill="#34D399" font-weight="600">MigrateX Pro</text>
+    <text x="462" y="190" fill="#F472B6" font-weight="600">InfinityCod</text>
+    <text x="590" y="190" fill="#60A5FA" font-weight="600">RentExpert</text>
+
+    <text x="36" y="228" fill="#4CC2FF" font-weight="700">$</text>
+    <text x="56" y="228" fill="#E8EEF7" font-weight="600">stack --core</text>
+    <text x="56" y="260" fill="#9FB0C9">TypeScript · React · Next.js · Electron · Node.js · SQLite · PHP</text>
+
+    <text x="36" y="298" fill="#4CC2FF" font-weight="700">$</text>
+    <text x="56" y="298" fill="#E8EEF7" font-weight="600">statut --now</text>
+    <text x="56" y="330" fill="#34D399" font-weight="700">●</text>
+    <text x="76" y="330" fill="#9FB0C9">FactSpeed v10 en production — support WhatsApp 7j/7</text>
+    <rect x="56" y="344" width="11" height="19" fill="#4CC2FF"/>
+  </g>
+</svg>
