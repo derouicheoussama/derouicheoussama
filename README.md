@@ -12,6 +12,14 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=derouicheoussama&label=Visites+du+profil&color=4CC2FF&style=for-the-badge" alt="Nombre de visites du profil" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=19&duration=3200&pause=1100&color=4CC2FF&center=true&vCenter=true&width=720&lines=%E2%88%9E+Infinity+Coder+—+chaque+projet+sign%C3%A9;Logiciels+m%C3%A9tier+pour+l'Alg%C3%A9rie+et+la+France;Desktop+Electron+%C2%B7+WordPress+premium+%C2%B7+SaaS;Donn%C3%A9es+100+%25+locales+—+support+direct+7j%2F7" alt="Bienvenue — ∞ Infinity Coder, logiciels métier pour l'Algérie et la France : desktop Electron, WordPress premium, SaaS, données 100 % locales, support 7j/7" />
+</p>
+
+<p align="center">
   <img src="terminal.svg" width="100%" alt="Terminal : whoami, produits, stack et statut de Derouiche Oussama" />
 </p>
 
@@ -45,9 +53,13 @@
 | **[RentExpert](https://github.com/derouicheoussama/rentexpert)** | ERP location de voitures — GPS Traccar, licences Ed25519 | releases |
 | **Infinity License Manager** | Serveur de licences & mises à jour WordPress auto-hébergeable | privé (sur demande) |
 
-🧰 **Open source** — [Windows/Mac Toolbox](https://github.com/derouicheoussama/windows-toolbox) (GPL-3.0) · [Right Click Blocker Pro](https://github.com/derouicheoussama/right-click-blocker-pro) (GPLv2)
+🧰 **Open source** — [Windows/Mac Toolbox](https://github.com/derouicheoussama/windows-toolbox) (GPL-3.0) : diagnostics, tests SSD, registre, BIOS/UEFI, nettoyage, **monitoring temps réel** et **catalogue d'applications winget** — 13 onglets, 250+ commandes, aucune installation · [Right Click Blocker Pro](https://github.com/derouicheoussama/right-click-blocker-pro) (GPLv2) : protection de contenu WordPress, licences ECDSA.
 
-☕ **[Soutenir mon travail open source sur Ko-fi](https://ko-fi.com/derouicheoussama)** — chaque café finance une mise à jour gratuite.
+🛠 **En atelier** — RestoCafé (POS cafétéria & restaurants) · Infinity Migrate Pro (migration/backup WordPress) · FlexMan DZ (recharges télécom).
+
+<p align="center">
+  <a href="https://ko-fi.com/derouicheoussama"><img src="https://img.shields.io/badge/☕%20Ko--fi-Soutenir%20l'open%20source-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir sur Ko-fi" /></a>
+</p>
 
 ## 🧠 Stack
 
@@ -63,7 +75,17 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=derouicheoussama&theme=github_dark" alt="Répartition des langages par dépôt" />
 </p>
 <p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derouicheoussama&theme=github_dark" alt="Heures productives de commits" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=derouicheoussama&theme=github-dark-blue&hide_border=true&ring=4CC2FF&fire=FF8A4C&currStreakLabel=4CC2FF&locale=fr" alt="Série de commits GitHub" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derouicheoussama/derouicheoussama/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/derouicheoussama/derouicheoussama/output/github-contribution-grid-snake.svg" alt="Animation du serpent qui dévore mes contributions GitHub" width="100%" />
+  </picture>
 </p>
 
 ---
