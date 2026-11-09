@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://factspeed.com"><img src="https://img.shields.io/badge/🌐%20Site-factspeed.com-2F5FE0?style=flat-square" alt="Site FactSpeed" /></a>
-  <a href="https://github.com/derouicheoussama/factspeed-releases"><img src="https://img.shields.io/badge/⬇️%20T%C3%A9l%C3%A9chargements-releases%20officielles-0A84FF?style=flat-square" alt="Releases FactSpeed" /></a>
+  <a href="https://github.com/FactSpeed/factspeed-releases"><img src="https://img.shields.io/badge/⬇️%20T%C3%A9l%C3%A9chargements-releases%20officielles-0A84FF?style=flat-square" alt="Releases FactSpeed" /></a>
   <a href="https://github.com/derouicheoussama/factspeed"><img src="https://img.shields.io/badge/💻%20Produit-factspeed%20%28priv%C3%A9%29-6B7280?style=flat-square" alt="Dépôt produit" /></a>
   <a href="https://wa.me/213770600957"><img src="https://img.shields.io/badge/💬%20Support-WhatsApp%207j%2F7-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Support WhatsApp" /></a>
 </p>
@@ -46,7 +46,7 @@
 
 | Produit | En une ligne | Lien |
 |---|---|---|
-| **[FactSpeed](https://factspeed.com)** | ERP facturation Algérie — TVA/timbre, G50, POS, paie CNAS, 100 % local | [releases](https://github.com/derouicheoussama/factspeed-releases) |
+| **[FactSpeed](https://factspeed.com)** | ERP facturation Algérie — TVA/timbre, G50, POS, paie CNAS, 100 % local | [releases](https://github.com/FactSpeed/factspeed-releases) |
 | **[LoginFennec Pro](https://github.com/derouicheoussama/loginfennec)** | Sécurité de login WordPress — brute-force, 2FA, audit | repo |
 | **[Infinity MigrateX Pro](https://github.com/derouicheoussama/infinity-migratex-pro)** | Migration, sauvegarde & déploiement WordPress par lots | repo |
 | **[InfinityCod](https://github.com/derouicheoussama/infinitycod)** | COD Algérie — 58 wilayas, transporteurs, WhatsApp auto | repo |
